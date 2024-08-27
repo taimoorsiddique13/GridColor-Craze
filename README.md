@@ -13,9 +13,9 @@
 
 Here are some screenshots of Grid Paint Pro in action:
 
-| Gameplay 1       | Gameplay 2       |
-| --------------- | --------------- |
-| ![Gameplay 1](screenshots/gameplay_1.png) | ![Gameplay 2](screenshots/gameplay_2.png) |
+| Gameplay 1       | Gameplay 2       | Gameplay 3       | Gameplay 4       |
+| ---------------  | ---------------  | ---------------  | ---------------  |
+| ![Gameplay 1](screenshots/gameplay_1.png) | ![Gameplay 2](screenshots/gameplay_2.png) | ![Gameplay 3](screenshots/gameplay_3.png) | ![Gameplay 4](screenshots/gameplay_4.png) |
 
 ## 🚀 Getting Started
 
